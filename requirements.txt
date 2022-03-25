@@ -1,7 +1,7 @@
 git+https://github.com/adityacheats/downloader@master
 pyrogram
 TgCrypto
-py-tgcalls==0.8.0rc1
+py-tgcalls==0.90b1
 python-dotenv
 youtube_search_python
 requests
